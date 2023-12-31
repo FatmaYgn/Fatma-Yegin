@@ -1,0 +1,48 @@
+body {
+    color: aliceblue;
+    margin: 0;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: "Merriweather", serif;
+    background-image:url("./images/back.jpg");
+    background-repeat: no-repeat;
+    background-size: 1350px 580px;
+}
+.header > h1 {
+    color:whitesmoke;
+    font-size: 4rem;
+    margin-top: 100px;
+    justify-content: center;
+    align-items: center;
+    font-family: "Sacramento", cursive;
+    text-align: center;
+}
+.header > h3{
+    color: whitesmoke;
+    font-size: 1.5rem;
+    justify-content: center;
+    align-items: center;
+    font-family: "Sacramento", cursive;
+    text-align: center;
+}
+.foot{
+    border-top: 1px solid gray;
+}
+div > .size{
+    font-size: 18px;
+}
+.skill{
+    background-color: rgba(238, 243, 249, 0.906);
+}
+.skill2{
+    background-color: rgb(191, 220, 245);
+}
+.right{
+    justify-content: right;
+    align-items: right;
+}
+.col{
+    justify-content: center;
+    align-items: center;
+}
